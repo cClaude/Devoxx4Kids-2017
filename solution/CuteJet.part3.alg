@@ -16,10 +16,12 @@ loop (25) {
 	set y = math.random(gameLayer.getHeight())
 	
 	set gem = gameLayer.createActor(
-	"PlanetCute/Gem Green");
+	"PlanetCute/Gem Green")
 	
 	gem.scale(0.5)
 	gem.move(x, y)
+
+	gem.typeSensor().hitCircle()
 	
 }
 
