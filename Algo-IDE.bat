@@ -1,3 +1,3 @@
 cd %CD%/ALGEA
 
-java -jar ALGEA-IDE.jar
+start javaw -jar ALGEA-IDE.jar
