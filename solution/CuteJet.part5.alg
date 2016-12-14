@@ -2,8 +2,8 @@
 // CuteJet by CyaNn & ALGEA
 // NE PAS MODIFIER CETTE PARTIE DU CODE
 
-include("../CuteJet/CuteJet.include1");
-include("../CuteJet/CuteJet.include2");
+include("../includes/CuteJet.include1");
+include("../includes/CuteJet.include2");
 
 // On commence à partir d'ici
 // A NOUS DE JOUER
@@ -40,4 +40,4 @@ loop (25) {
 // -----------------------------------------------------------------------------
 // NE PAS MODIFIER LA PARTIE SUIVANTE DU CODE
 
-include("../CuteJet/CuteJet.include3");
+include("../includes/CuteJet.include3");

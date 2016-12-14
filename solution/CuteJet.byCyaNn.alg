@@ -2,7 +2,7 @@
 // CuteJet by CyaNn & ALGEA
 // NE PAS MODIFIER CETTE PARTIE DU CODE
 
-include("../CuteJet/CuteJet.include1");
+include("../includes/CuteJet.include1");
 
 // On commence à partir d'ici
 // A NOUS DE JOUER
@@ -149,5 +149,5 @@ hero.say(font, "Allons y !");
 // -----------------------------------------------------------------------------
 // NE PAS MODIFIER LA PARTIE SUIVANTE DU CODE
 
-include("../CuteJet/CuteJet.include3");
+include("../includes/CuteJet.include3");
 
